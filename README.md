@@ -1,12 +1,12 @@
-# 🧠 AWS — Principais Serviços e Funcionamento Detalhado
+#  AWS — Principais Serviços e Funcionamento Detalhado
 
-## 📘 Descrição do Projeto
+##  Descrição do Projeto
 Este documento apresenta uma análise **profunda e didática** dos **principais serviços da Amazon Web Services (AWS)**, a plataforma de computação em nuvem mais utilizada do mundo.  
 O objetivo é compreender como cada serviço funciona, suas **arquiteturas**, **casos de uso reais** e **vantagens técnicas**, fornecendo uma visão sólida para estudantes e profissionais de tecnologia.
 
 ---
 
-## ☁️ Serviços Abordados
+##  Serviços Abordados
 
 ### 🔹 1. Amazon EC2 (Elastic Compute Cloud)
 Serviço de **computação em nuvem** que permite criar e gerenciar **máquinas virtuais (instâncias)** sob demanda.  
@@ -67,7 +67,7 @@ Proporciona controle total sobre IPs, sub-redes, gateways e regras de segurança
 
 ---
 
-## ⚙️ Tabela Comparativa
+##  Tabela Comparativa
 
 | Serviço | Categoria | Escalabilidade | Modelo de Custo | Segurança | Casos de Uso |
 |----------|------------|----------------|-----------------|------------|--------------|
@@ -79,7 +79,7 @@ Proporciona controle total sobre IPs, sub-redes, gateways e regras de segurança
 
 ---
 
-## 🏗️ Arquitetura Exemplo (Aplicação Completa)
+##  Arquitetura Exemplo (Aplicação Completa)
 
 **Fluxo típico:**
 1. Usuários acessam a aplicação hospedada no **EC2**.  
@@ -90,7 +90,7 @@ Proporciona controle total sobre IPs, sub-redes, gateways e regras de segurança
 
 ---
 
-## 📚 Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 - **AWS EC2**
 - **AWS S3**
 - **AWS RDS**
