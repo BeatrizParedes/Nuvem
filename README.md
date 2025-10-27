@@ -90,13 +90,3 @@ Proporciona controle total sobre IPs, sub-redes, gateways e regras de segurança
 
 ---
 
-##  Tecnologias Utilizadas
-- **AWS EC2**
-- **AWS S3**
-- **AWS RDS**
-- **AWS Lambda**
-- **AWS VPC**
-- **IAM** (Identity and Access Management)
-- **CloudWatch** (Monitoramento)
-
----
