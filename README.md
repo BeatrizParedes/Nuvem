@@ -8,7 +8,7 @@ O objetivo é compreender como cada serviço funciona, suas **arquiteturas**, **
 
 ##  Serviços Abordados
 
-### 🔹 1. Amazon EC2 (Elastic Compute Cloud)
+###  1. Amazon EC2 (Elastic Compute Cloud)
 Serviço de **computação em nuvem** que permite criar e gerenciar **máquinas virtuais (instâncias)** sob demanda.  
 É a base da infraestrutura da AWS, usada para hospedar sites, aplicações, bancos de dados e sistemas corporativos.
 
@@ -20,7 +20,7 @@ Serviço de **computação em nuvem** que permite criar e gerenciar **máquinas 
 
 ---
 
-### 🔹 2. Amazon S3 (Simple Storage Service)
+###  2. Amazon S3 (Simple Storage Service)
 Serviço de **armazenamento de objetos** que oferece **alta durabilidade (99,999999999%)**, segurança e escalabilidade automática.
 
 **Destaques:**
@@ -31,7 +31,7 @@ Serviço de **armazenamento de objetos** que oferece **alta durabilidade (99,999
 
 ---
 
-### 🔹 3. Amazon RDS (Relational Database Service)
+###  3. Amazon RDS (Relational Database Service)
 Serviço de **banco de dados relacional gerenciado**.  
 Reduz o trabalho operacional (instalação, backup, patching e replicação).
 
@@ -43,7 +43,7 @@ Reduz o trabalho operacional (instalação, backup, patching e replicação).
 
 ---
 
-### 🔹 4. AWS Lambda
+###  4. AWS Lambda
 Serviço **serverless** que executa código **sem necessidade de servidores**.  
 Ideal para automações, processamento em tempo real e APIs escaláveis.
 
@@ -55,7 +55,7 @@ Ideal para automações, processamento em tempo real e APIs escaláveis.
 
 ---
 
-### 🔹 5. Amazon VPC (Virtual Private Cloud)
+###  5. Amazon VPC (Virtual Private Cloud)
 Serviço que permite criar uma **rede virtual privada e isolada** dentro da nuvem AWS.  
 Proporciona controle total sobre IPs, sub-redes, gateways e regras de segurança.
 
